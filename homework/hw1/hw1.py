@@ -95,7 +95,7 @@ def plot_pier_data(pier):
     plt.xticks(rotation=45)
     plt.show()
 # %%
-pier = get_2021_pier_data(file = "scripps_pier-2021.nc")
+pier = get_2021_pier_data(file = "../pier_data/scripps_pier-2021.nc")
 plot_pier_data(pier)
 
 np.mean(pier.temperature)
