@@ -26,7 +26,3 @@ notebook.tex
 ._*
 .vscode/
 .idea/
-
-# ---- Keep student submissions out of this repo -------------------------
-# Homework goes in YOUR fork, not here.  See CONTRIBUTING.md.
-submissions/
